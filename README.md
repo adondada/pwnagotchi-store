@@ -21,7 +21,7 @@ sudo pwnstore install <plugin_name>
 
 ---
 
-## 📦 Four Ways to Use PwnStore
+## 📦 Four Ways to Use  PwnStore
 
 | Interface | Perfect For | Access |
 |-----------|-------------|--------|
